@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InventoryManagement.Api/InventoryManagement.Api.csproj" />
+  <Project Path="InventoryManagement.Business/InventoryManagement.Business.csproj" />
+  <Project Path="InventoryManagement.Data/InventoryManagement.Data.csproj" />
+  <Project Path="InventoryManagement.Models/InventoryManagement.Models.csproj" />
+  <Project Path="InventoryManagement.Mvc/InventoryManagement.Mvc.csproj" />
+</Solution>
